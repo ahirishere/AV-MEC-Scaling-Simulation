@@ -8,9 +8,6 @@
 - Sweep over AV penetration p, compare welfare curves
 - Robustness sweep over controller capacity mis-specification
 
-Run, e.g.:
-  python av_pricing_1125.py
-
 Creates:
   data/sweep_core.csv
   data/sweep_mispec_p*.csv
